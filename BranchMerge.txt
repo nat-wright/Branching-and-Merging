@@ -1,4 +1,3 @@
 Hello World!
 
-Cat
-Lion
+Blue Bird
